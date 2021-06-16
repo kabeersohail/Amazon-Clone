@@ -20,15 +20,15 @@ function Banner() {
             >
 
             <div>
-                <img loading="lazy" src="https:links.papareact.com/gi1" alt="" />
+                <img loading="lazy" src="https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/U599/JUNE/PC/2._CB667373073_.jpg" alt="" />
             </div>
 
             <div>
-                <img loading="lazy" src="https:links.papareact.com/6ff" alt="" />
+                <img loading="lazy" src="https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/U599/JUNE/PC/2._CB667373073_.jpg" alt="" />
             </div>
 
             <div>
-                <img loading="lazy" src="https:links.papareact.com/7ma" alt="" />
+                <img loading="lazy" src="https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/U599/JUNE/PC/2._CB667373073_.jpg" alt="" />
             </div>
 
             </Carousel>
